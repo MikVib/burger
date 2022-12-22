@@ -12,6 +12,7 @@
     `
 
 
+
     coverBtn.addEventListener('click',()=>{
         backdropModal.classList.add('backdropActive')
         modal.classList.add('modalActive')

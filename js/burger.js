@@ -31,3 +31,4 @@ burger.addEventListener('click',()=>{
 backdrop.addEventListener('click',()=>{
     handleRemove()
 })
+
